@@ -1,15 +1,8 @@
-# 🤖 AI FinInnings - GKE Hackathon
+# 🤖 AI FinInnings - AI Powered Financial Game Plan 
 
 Multi-agent AI system that provides personalized financial advice by integrating with Bank of Anthos using modern AI and Kubernetes technologies.
 
-## 🏆 Hackathon Entry
 
-Built for the **Google Kubernetes Engine 10th Anniversary Hackathon** showcasing:
-- **GKE**: Container orchestration and auto-scaling with Workload Identity
-- **ADK**: Agent Development Kit for agent lifecycle management  
-- **MCP**: Model Context Protocol for seamless Bank of Anthos integration
-- **A2A**: Agent-to-Agent communication protocol
-- **Vertex AI Gemini**: Intelligent financial analysis via Application Default Credentials
 
 ## 🏗️ Architecture
 
@@ -398,6 +391,5 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
-**Built with ❤️ for the Google Kubernetes Engine 10th Anniversary Hackathon**
 
 🚀 **Ready to revolutionize financial services with AI?** Deploy now and see the future of banking! 🤖💰
